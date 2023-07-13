@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muralidharan6969
-- 👀 I’m interested in working in projects related to Machine Learning, Deep Learning and similar stuffs.
-- 🌱 I’m currently working in Middleware and learning concepts of Machine learning, Neural networks and Cloud Computing.
+- 👀 I’m interested in working in projects related to Software Development.
+- 🌱 I have an year of experrience as a Middleware Engineer and I am currently learning about Software Development
 - 💞️ I’m looking to collaborate with people working in my area of interest.
 - 📫 Please feel free to reach me at muralipkmsaravanan@gmail.com
 
