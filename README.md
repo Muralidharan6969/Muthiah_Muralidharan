@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Muralidharan6969
+- 👋 Hi, I’m @Muthiah_Muralidharan
 - 👀 I’m interested in working in projects related to Software Development.
 - 🌱 I have an year of experrience as a Middleware Engineer and I am currently learning about Software Development
 - 💞️ I’m looking to collaborate with people working in my area of interest.
